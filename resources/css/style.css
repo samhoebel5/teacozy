@@ -1,0 +1,36 @@
+
+/* Universal Styles */
+
+body {
+  color: seashell;
+  font-size: 22px;
+}
+
+a {
+  color: seashell;
+}
+
+/* Header */
+
+header {
+  background-color: black;
+  height: 69px;
+  border-bottom: 1px solid seashell;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header img {
+  height: 50px;
+  margin-left: 10px;
+}
+
+header nav {
+  margin-right: 10px;
+}
+
+header span {
+  margin-left: 20px;
+  text-decoration: underline;
+}
